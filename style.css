@@ -25,7 +25,7 @@
   .cell {
     width: var(--cell-size);
     height: var(--cell-size);
-    border: 1px solid black;
+    border: 1px solid limegreen;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -136,7 +136,7 @@
   }
   
   .winning-message button:hover {
-    background-color: black;
+    background-color: limegreen;
     color: white;
     border-color: white;
   }
