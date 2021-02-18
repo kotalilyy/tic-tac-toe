@@ -5,7 +5,10 @@ const cellElements = document.querySelectorAll('[data-cell]')
 const board = document.getElementById('board')
 let circleTurn
 
+startGame()
+
 function startGame(){
+    circleTurn = false
 cellElements.forEach(cell => {
     cell.addEventListener('click', handleClick, { once: true})
     })
