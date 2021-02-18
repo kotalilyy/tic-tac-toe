@@ -36,17 +36,18 @@ function startGame() {
 
     function handleClick(e) {
         const cell = e.target
-        const currentClass =  ? CIRCLE_CLASS : X_CLASS
+        const currentClass = circleTurn ? CIRCLE_CLASS : X_CLASS
         placeMark(cell, currentClass)
-        if (checkWin(currentClass) {
-            console.log('winner')
-        })
-        // Check for win
-        // Check for draw
-        // Swittch turns
-        swapTurns()
-        setBoardHoverClass()
+        if (checkWin(currentClass)) {
+            endGame(false)
+        } else if (isDraw()) {
+            endGame(true)
+        }  else {
+            swapTurns()
+            setBoardHoverClass()
+        }
     }
+       
 
     function placeMark(cell, currentClass) {
         cell.classList.add(currentClass)
