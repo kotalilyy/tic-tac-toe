@@ -60,8 +60,14 @@ body {
     cursor: not-allowed;
 }
 
-.board.x .cell:hover {
+.cell.x::before, 
+.cell.x::after {
+    background-color: black;
+}
 
+.board.x .cell:not(.x):not(.circle):hover::before,
+.board.x .cell:not(.x):not(.circle):hover::after {
+    background-color: lightgrey;
 } 
 
 .cell.x::before,
