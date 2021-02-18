@@ -22,12 +22,16 @@ startGame()
 
 restartButton.addEventListener('click', startGame)
 
-function startGame(){
+function startGame() {
     circleTurn = false
-cellElements.forEach(cell => {
-    cell.addEventListener('click', handleClick, { once: true})
+    cellElements.forEach(cell => {
+        cell.classList.remove(X_CLASS)
+        cell.classList.remoce(CIRCLE_CLASS)
+        cell.removeEventListener('click', handleClick)
+        cell.addEventListener('click', handleClick, { once: true })
     })
     setBoardHoverClass()
+    winningMessageElement.classList.remove('show')
 }
 
     function handleClick(e) {
