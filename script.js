@@ -10,7 +10,7 @@ const WINNING_COMBINATIONS = [
     [2, 5, 8],
     [0, 4, 8],
     [2, 4, 6],
-}
+]
 const cellElements = document.querySelectorAll('[data-cell]')
 const board = document.getElementById('board')
 let circleTurn
@@ -29,6 +29,9 @@ cellElements.forEach(cell => {
         const cell = e.target
         const currentClass =  ? CIRCLE_CLASS : X_CLASS
         placeMark(cell, currentClass)
+        if (checkWin(currentClass) {
+            console.log('winner')
+        })
         // Check for win
         // Check for draw
         // Swittch turns
@@ -52,4 +55,12 @@ cellElements.forEach(cell => {
         } else {
             board.classList.add(X_CLASS)
         }
+    }
+
+    function checkWin(currentClass) {
+      return  WINNING_COMBINATIONS.some(combination => {
+        return combination.every(index => {
+            returncellElements[index].classList.contains(currentClass)
+        })
+      })
     }
