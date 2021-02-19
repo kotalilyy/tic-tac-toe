@@ -24,9 +24,6 @@ https://kotalilyy.github.io/JavaScript-Tic-Tac-Toe/
 
 ## Contributions 
 
-I created this JavaScript Tic Tac Toe game with the help of @WebDevSimplified! 
-
-
 Made with ❤️ by Dakota Nelson
 
-
+Created with the help of @WebDevSimplified
