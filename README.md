@@ -24,6 +24,4 @@ https://kotalilyy.github.io/JavaScript-Tic-Tac-Toe/
 
 ## Contributions 
 
-Made with ❤️ by Dakota Nelson
-
 Created with the help of @WebDevSimplified
