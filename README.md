@@ -2,9 +2,6 @@
 
 Play Tic-Tac-Toe
 
-## Usage
-
-
 [Click here to play](https://kotalilyy.github.io/JavaScript-Tic-Tac-Toe/)
 
 <img width="360" alt="Screen Shot 2021-02-18 at 9 51 16 AM" src="https://user-images.githubusercontent.com/77229281/108383209-2fdb4400-71cf-11eb-9d1e-357d636920d7.png">
@@ -21,13 +18,14 @@ Play Tic-Tac-Toe
 
 <img width="360" alt="Screen Shot 2021-02-18 at 9 51 44 AM" src="https://user-images.githubusercontent.com/77229281/108384329-459d3900-71d0-11eb-8d25-c473ad6963ae.png">
 
-
 ## Credits
 
 [Tutorial](https://www.youtube.com/watch?v=Y-GkMjUZsmM) by [@WebDevSimplified](https://github.com/WebDevSimplified/JavaScript-Tic-Tac-Toe)
 
 ## Contributions
 
-Created with ❤️ by Dakota Nelson
+Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
 
+## Questions
 
+<a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
