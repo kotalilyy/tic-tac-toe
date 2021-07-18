@@ -1,7 +1,5 @@
 # JavaScript Tic Tac Toe Game
 
-Play Tic-Tac-Toe
-
 Click [here](https://kotalilyy.github.io/tic-tac-toe/) to play
 
 <img width="360" alt="Screen Shot 2021-02-18 at 9 51 16 AM" src="https://user-images.githubusercontent.com/77229281/108383209-2fdb4400-71cf-11eb-9d1e-357d636920d7.png">
