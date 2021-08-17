@@ -1,20 +1,14 @@
-# JavaScript Tic Tac Toe Game
+# tic-tac-toe
 
 Click [here](https://kotalilyy.github.io/tic-tac-toe/) to play
 
-<img width="360" alt="Screen Shot 2021-02-18 at 9 51 16 AM" src="https://user-images.githubusercontent.com/77229281/108383209-2fdb4400-71cf-11eb-9d1e-357d636920d7.png">
+<img width="290" alt="xxo" src="https://user-images.githubusercontent.com/77229281/129717471-b6223919-5539-44e7-badc-85016143cfd8.png">
 
+<img width="289" alt="xxo1" src="https://user-images.githubusercontent.com/77229281/129717507-38d954fd-e181-43de-b65d-aabc978edf40.png">
 
+<img width="290" alt="xxo3" src="https://user-images.githubusercontent.com/77229281/129717534-a2ecb413-6c0a-404b-b964-269c56ef9b94.png">
 
-<img width="360" alt="Screen Shot 2021-02-18 at 9 51 54 AM" src="https://user-images.githubusercontent.com/77229281/108384076-02db6100-71d0-11eb-81bb-ca948fe34049.png">
-
-
-
-<img width="360" alt="Screen Shot 2021-02-18 at 9 52 03 AM" src="https://user-images.githubusercontent.com/77229281/108384324-43d37580-71d0-11eb-83ef-bc03544cd1ea.png">
-
-
-
-<img width="360" alt="Screen Shot 2021-02-18 at 9 51 44 AM" src="https://user-images.githubusercontent.com/77229281/108384329-459d3900-71d0-11eb-8d25-c473ad6963ae.png">
+<img width="286" alt="xxo4" src="https://user-images.githubusercontent.com/77229281/129717544-606b278f-7c76-4b28-be14-38df5b3df972.png">
 
 ## Credits
 
