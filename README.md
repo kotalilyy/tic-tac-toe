@@ -12,7 +12,9 @@ Click [here](https://kotalilyy.github.io/tic-tac-toe/) to play
 
 ## Credits
 
-[Tutorial](https://www.youtube.com/watch?v=Y-GkMjUZsmM) by [@WebDevSimplified](https://github.com/WebDevSimplified/JavaScript-Tic-Tac-Toe)
+Click [here](https://www.youtube.com/watch?v=Y-GkMjUZsmM) to create this game.
+
+Thanks [@WebDevSimplified](https://github.com/WebDevSimplified/JavaScript-Tic-Tac-Toe)
 
 ## Contributions
 
